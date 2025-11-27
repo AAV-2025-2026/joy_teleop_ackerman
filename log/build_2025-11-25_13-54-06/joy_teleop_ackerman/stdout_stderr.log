@@ -1,0 +1,19 @@
+running egg_info
+writing build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/PKG-INFO
+writing dependency_links to build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/dependency_links.txt
+writing entry points to build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/entry_points.txt
+writing requirements to build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/requires.txt
+writing top-level names to build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/top_level.txt
+reading manifest file 'build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/SOURCES.txt'
+writing manifest file 'build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages/joy_teleop_ackerman-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info to /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages/joy_teleop_ackerman-0.0.0-py3.10.egg-info
+running install_scripts
+Installing joy_to_ackermann script to /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/joy_teleop_ackerman
+writing list of installed files to '/home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/install.log'

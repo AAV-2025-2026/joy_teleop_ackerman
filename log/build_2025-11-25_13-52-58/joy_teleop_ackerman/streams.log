@@ -1,0 +1,41 @@
+[0.931s] Invoking command in '/home/aavjetson/Desktop/joy_teleop_ackerman': PYTHONPATH=/home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/joy_teleop_ackerman build --build-base /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/build install --record /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/install.log --single-version-externally-managed install_data
+[1.275s] running egg_info
+[1.275s] creating build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info
+[1.275s] writing build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/PKG-INFO
+[1.276s] writing dependency_links to build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/dependency_links.txt
+[1.276s] writing entry points to build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/entry_points.txt
+[1.276s] writing requirements to build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/requires.txt
+[1.277s] writing top-level names to build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/top_level.txt
+[1.277s] writing manifest file 'build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/SOURCES.txt'
+[1.278s] reading manifest file 'build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/SOURCES.txt'
+[1.279s] writing manifest file 'build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info/SOURCES.txt'
+[1.280s] running build
+[1.280s] running build_py
+[1.281s] creating /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/build
+[1.281s] creating /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/build/lib
+[1.281s] creating /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/build/lib/joy_teleop_ackerman
+[1.281s] copying joy_teleop_ackerman/joy_to_ackerman.py -> /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/build/lib/joy_teleop_ackerman
+[1.282s] copying joy_teleop_ackerman/__init__.py -> /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/build/lib/joy_teleop_ackerman
+[1.282s] running install
+[1.282s] running install_lib
+[1.283s] creating /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages/joy_teleop_ackerman
+[1.283s] copying /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/build/lib/joy_teleop_ackerman/joy_to_ackerman.py -> /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages/joy_teleop_ackerman
+[1.283s] copying /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/build/lib/joy_teleop_ackerman/__init__.py -> /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages/joy_teleop_ackerman
+[1.283s] byte-compiling /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages/joy_teleop_ackerman/joy_to_ackerman.py to joy_to_ackerman.cpython-310.pyc
+[1.284s] byte-compiling /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages/joy_teleop_ackerman/__init__.py to __init__.cpython-310.pyc
+[1.285s] running install_data
+[1.285s] creating /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/share/ament_index
+[1.286s] creating /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/share/ament_index/resource_index
+[1.286s] creating /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/share/ament_index/resource_index/packages
+[1.286s] copying resource/joy_teleop_ackerman -> /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/share/ament_index/resource_index/packages
+[1.286s] copying package.xml -> /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/share/joy_teleop_ackerman
+[1.287s] creating /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/share/joy_teleop_ackerman/launch
+[1.287s] copying launch/joy_teleop.launch.py -> /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/share/joy_teleop_ackerman/launch
+[1.287s] creating /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/share/joy_teleop_ackerman/config
+[1.287s] copying config/joy_params.yaml -> /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/share/joy_teleop_ackerman/config
+[1.288s] running install_egg_info
+[1.290s] Copying build/joy_teleop_ackerman/joy_teleop_ackerman.egg-info to /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages/joy_teleop_ackerman-0.0.0-py3.10.egg-info
+[1.291s] running install_scripts
+[1.321s] Installing joy_to_ackermann script to /home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/joy_teleop_ackerman
+[1.321s] writing list of installed files to '/home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/install.log'
+[1.382s] Invoked command in '/home/aavjetson/Desktop/joy_teleop_ackerman' returned '0': PYTHONPATH=/home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aavjetson/Desktop/joy_teleop_ackerman/install/joy_teleop_ackerman/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/joy_teleop_ackerman build --build-base /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/build install --record /home/aavjetson/Desktop/joy_teleop_ackerman/build/joy_teleop_ackerman/install.log --single-version-externally-managed install_data
